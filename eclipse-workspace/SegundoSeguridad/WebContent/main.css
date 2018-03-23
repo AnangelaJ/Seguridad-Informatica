@@ -1,0 +1,47 @@
+h1{
+	position: absolute;
+	margin-left: 32%;
+	margin-top: 2%;
+	font-family: "Comic-Sans";
+}
+
+#files{
+	position: absolute;
+	top: 30%;
+	left: 30%;
+	width: 350px;
+	height: 25px;
+	background-color: aqua;
+	border-radius: 10px;
+	font-family: "Comic-Sans";
+	font-size: medium;
+	text-shadow: gray;
+	color: white;
+	
+}
+
+#subir{
+	position: absolute;
+	top: 30%;
+	left: 60%;
+	width: 50px;
+	height: 20px;
+	background-color: #4b00ff;
+	border-radius: 5px;
+	font-family: "Comic-Sans";
+	font-size: medium;
+	color: white;
+}
+
+#TextArea{
+	position: absolute;
+	top: 50%;
+	left: 30%;
+	width: 500px;
+	height: 200px;
+	background-color: bisque;
+	border-radius: 5px;
+	font-family: "Comic-Sans";
+	font-size: medium;
+	color: black;
+}

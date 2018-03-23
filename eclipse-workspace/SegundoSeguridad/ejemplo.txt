@@ -1,0 +1,32 @@
+ANTECEDENTES.
+
+Puente, D y Ramírez, S. (2008) MIGRACIÓN DE DATOS EN FOXBASE A PLATAFORMA DE BASES DE DATOS RELACIONALES. Escuela Politécnica Nacional, Quito, Ecuador. 
+El trabajo permitió brindar una solución para continuar con el procesamiento de los datos en aplicaciones basadas en plataformas Xbase, desarrollando una 
+plataforma intermedia entre Foxbase y un sistema de base de datos relacional tal que permita la migración de los datos de manera ágil y confiable, utilizando
+los motores de bases de datos más comerciales del mercado, siendo estos: Oracle, MySQL, SQL Server y PostgreSQL. La herramienta desarrollada fue de tipo 
+Utilitario y no de tipo Aplicativo.
+El sistema de caso de prueba fue desarrollado utilizando el Motor de bases de datos PostgreSQL, el Servidor Web Apache, los lenguajes de programación PHP, 
+JavaScript y el Navegador Web Mozilla Firefox. Logrando de esta manera el carácter multiplataforma esperado.
+Para el desarrollo del Sistema se utilizó la metodología del Ciclo de Vida del Desarrollo de Software conocido como Cascada (Waterfall Software Develope Life
+Cycle) que consta de 6 fases: Ingeniería y Análisis del Sistema, Análisis de los Requerimientos, Diseño, Codificación, Pruebas; y Mantenimiento. Esta 
+metodología fue elegida porque abarca el desarrollo completo del software, y tiene una secuencia que permite la integración de los aspectos orientados a 
+migración de datos.
+Se realizaron las pruebas pertinentes nombradas a continuación: Prueba de Migración de Datos, pruebas de integración, Las pruebas de recuperación, pruebas de
+Seguridad, pruebas de resistencia y por último fueron realizadas las pruebas de rendimiento, arrojando resultados satisfactorios acordes al sistema creado.
+De este trabajo se obtuvieron nociones de la migración de datos a diferentes motores de base de datos relacionales, motores considerados importantes para la 
+elaboración de la presente investigación. Asimismo, se consideró útil las pruebas realizadas, tomando en consideración su generalidad e integridad. Cabe 
+destacar el carácter multiplataforma de la investigación antes descrita, aspecto importante en el desarrollo de este trabajo de investigación.
+
+De Oliveira, G; Álvarez, Harold y Vivanco, Danny. (2006)  IMPLEMENTACIÓN DE LA MIGRACIÓN DE DATOS DE LA BASE DE DATOS DEL SISTEMA CANOPUS DE INFORMIX 9.4C 
+A ORACLE 10G. Escuela Superior Politecnica del Litoral, Guayaquil, Ecuador. El trabajo buscó migrar los datos del sistema naval CANOPUS, cuyo motor de base 
+de datos es Informix versión 9.4C; a Oracle versión 10g con la ayuda de las herramientas Power Builder y Power Designer de Sybase. Se trabajó con tres 
+módulos específicos: Modulo Principal, el modulo gerencial y el Modulo de Comité de Contrataciones. Se cambió la tecnología utilizada por el sistema antigua,
+RDO (Randon Data Object), por uno de los mecanismos que usan los programas de computadoras para comunicarse con las bases de datos, ADO (Activex Data Object).
+Para el desarrollo del sistema se utilizó Microsoft Windows 2003 Server como servidor, Informix 9.4C como manejador de base de datos y Oracle 10g para la 
+migración, Microsoft Windows XP para las estaciones de trabajo y Microsoft Visual Basic 6.0 como lenguaje de programación para la implementación de los 
+módulos.
+Para la migración se realizó un análisis de todas las tablas y las diferentes operaciones y consultas que se realizaban con los querys, verificando que se 
+encontraba código basura. Luego del análisis se realizó la migración de las tablas con sus respectivos índices luego de las vistas, triggers y al final de 
+los procedimientos almacenados. Posterior a la migración se realizaron las pruebas pertinentes.
+De la investigación descrita anteriormente se pudo tomar en consideración para su uso, las bases teóricas explicadas en la misma. Además de algunas 
+herramientas que podrían servir como prueba al momento de realizar la migración de los datos y corroborar, de forma rápida, el éxito resultante.
