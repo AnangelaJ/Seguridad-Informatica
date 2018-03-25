@@ -1,0 +1,45 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <link rel="stylesheet" href="style\main.css">
+        <title>La Vieja</title>
+    </head>
+    <body>
+        <p class = "titulo">TIC TAC TOE</p>
+        <div class="cabecera" id="cabecera">
+        	<input class= "buttonI" type="button" id="iniciar" onclick="iniciar()" value="INICIAR"/>
+        	<input class= "buttonR" type="button" id="reinicio" onclick="reiniciar()" value="REINICIAR"/>
+        </div>
+        <div id="j1" class="jugador1" style="float: left"></div>
+        <div id="j2" class="jugador2" style="float: rigth"></div>
+        
+        <div class="mayor" id="campo">
+                <table>
+                        <tr>
+                          <td onclick="marcar(event)" id="0">
+                          </td>
+                          <td onclick="marcar(event)" id="1">
+                          </td>
+                          <td onclick="marcar(event)" id="2">
+                          </td>
+                        </tr>
+                        <tr>
+                          <td onclick="marcar(event)" id="3">
+                          </td>
+                          <td onclick="marcar(event)" id="4">
+                          </td>
+                          <td onclick="marcar(event)" id="5"></td>
+                        </tr>
+                        <tr>
+                          <td onclick="marcar(event)" id="6">
+                          </td>
+                          <td onclick="marcar(event)" id="7">
+                          </td>
+                          <td onclick="marcar(event)" id="8">
+                          </td>
+                        </tr>
+                      </table>
+        </div>
+        <script src="js\app.js"></script>
+    </body>
+</html>

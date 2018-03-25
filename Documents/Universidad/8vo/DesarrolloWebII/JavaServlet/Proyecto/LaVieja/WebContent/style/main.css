@@ -1,0 +1,80 @@
+.titulo {
+    font-family: 'Elephant', 'Gill Sans MT', Elephant, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    color: blueviolet;
+}
+
+.buttonI{
+    color: purple;
+    background-color: plum;
+    font-family: 'comic sans ms', 'Gill Sans MT', Elephant, 'Trebuchet MS', sans-serif;
+    width: 100px;
+    margin-top: 1%;
+    margin-left: 45%;
+    border-radius: 5px;
+    border-bottom-color: black;
+}
+
+.buttonR{
+	display: none;
+    color: purple;
+    background-color: plum;
+    font-family: 'comic sans ms', 'Gill Sans MT', Elephant, 'Trebuchet MS', sans-serif;
+    width: 100px;
+    margin-top: 1%;
+    margin-left: 45%;
+    border-radius: 5px;
+    border-bottom-color: black;
+}
+
+.jugador1{
+	font-family: 'comic sans ms', 'Gill Sans MT', Elephant, 'Trebuchet MS', sans-serif;
+	font-size: xx-large;
+	width: 50%;
+    height: 5%;
+    margin-left: 22%;
+    margin-top: 0%;
+    display: none;
+}
+
+.jugador2{
+	display:none;
+	font-family: 'comic sans ms', 'Gill Sans MT', Elephant, 'Trebuchet MS', sans-serif;
+	font-size: xx-large;
+	width: 50%;
+    height: 5%;
+    margin-left: 75%;
+    margin-top: 0%;
+}
+
+
+.mayor{
+    width: 80%;
+    height: 80%;
+    margin-left: 10%;
+    margin-top: 2%;
+    display: none;
+}
+
+table {
+    margin-left:auto; 
+    margin-right:auto; 
+    width: 551px; 
+    -webkit-user-select: none; 
+  }
+  
+  td {
+    height: 175px;
+    width: 175px;
+    text-align: center;
+    font-size: 120px;
+    border: 2px solid #cccccc;
+    -webkit-border-radius: 10px;
+  }
+  
+ .cabecera{
+ 	width: 90%;
+ 	height: 60px;
+ 	margin-left: 1%;
+ }
